@@ -64,6 +64,7 @@ fig.show()
 
 vbnet
 Copy code
+```
 
 - **Purpose**: Creates a set of subplots comparing the employment rates of different countries.
 - **Data Source**: Two CSV files, 'UnemploymentRate7.csv' and 'UnemploymentRatebottom7.csv'.
